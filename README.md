@@ -8,4 +8,7 @@ Questions :
 6. Check if entered year is leap year or not.
 7. WAP to find power of 2^N using left shift operator.
 
-
+There are 3 diffrent files:
+1. da.h is the file where all the functions related to the assignment is declared.
+2. da.c is the file where all the function definition is coded.
+3. main.c is the file used for testing all the functions.
